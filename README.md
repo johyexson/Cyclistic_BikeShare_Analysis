@@ -25,11 +25,11 @@ I decided to analyse the tripdata for year 2022 from January to December and yea
 - Exported file in order to create better visualization in Tableau
 # Graphs
 The results at a glance:
-![Github_Bikeshare 1](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/63fbe6ad-828e-49bd-bc99-395e92d3af17)
+![](Graph_1.png)
 
-![Github_Bikeshare 2](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/e55128e8-3f75-440f-b4e9-9c7f2a5e2648)
+![](Graph_2.png)
 
-![Github_Bikeshare 3](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/8e4339f9-0676-4fe6-af1b-6766b7637d10)
+![](Graph_3.png)
 
 # Summary of Findings
 A comparison of the tripdata from the previous year and the present year shows the historical pattern  and consistency in rider preferences
