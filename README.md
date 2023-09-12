@@ -11,6 +11,14 @@ The data used was made available by a real bike share Company named Divvy.It inc
 - R
 - Tableau
 
-
-
+<table>
+  <tr>
+    <td>Previous Year</td>
+     <td>Present Year</td>
+  </tr>
+  <tr>
+    <td><img scr="C:\Users\PC\Pictures\2022_Bike_Usage.png" width=47 height=80></td>
+    <td><img scr="C:\Users\PC\Pictures\2023_Bike_Usage.png" width=47 height=80></td>
+  </tr>
+</table>
 
