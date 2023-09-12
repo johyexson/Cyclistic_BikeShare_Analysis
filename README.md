@@ -24,7 +24,7 @@ I decided to analyse the tripdata for year 2022 from January to December and yea
 - Plotted graphs for visualization
 - Exported file in order to create better visualization in Tableau
 # Graphs
-
+The results at a glance:
 ![Github_Bikeshare 1](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/63fbe6ad-828e-49bd-bc99-395e92d3af17)
 
 ![Github_Bikeshare 2](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/e55128e8-3f75-440f-b4e9-9c7f2a5e2648)
@@ -47,5 +47,4 @@ Casual riders that frequently use classic bikes have higher chances of being con
 - Incomplete data with a lot of missing values limited the quality of the analysis
 - Inability to access pass purchases made by riders due to privacy issues
 # Explore the code
-
-
+The code I wrote for the analysis can be viewed [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
