@@ -10,15 +10,21 @@ The data used was made available by a real bike share Company named Divvy.It inc
 - Excel
 - R
 - Tableau
+# Method
+- Loaded the files into Excel for cleaning
+- Checked for inconsistent formats and corrected errors
+- Created two extra columns for ride length and day of week
+- Calculated the percentage and count of missing values
+- Imported the file into RStudio for further cleaning and analysis
+- Removed missing values and duplicate rows
+- Filtered out dirty data irrelevant to the analysis
+- Converted data types
+- Carried out statistical calculations
+- Plotted graphs for visualization
+- Exported file in order to create better visualization in Tableau
+# Graphs
+![Github_Bikeshare 1](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/63fbe6ad-828e-49bd-bc99-395e92d3af17)
 
-<table>
-  <tr>
-    <td>Previous Year</td>
-     <td>Present Year</td>
-  </tr>
-  <tr>
-    <td><img scr="C:\Users\PC\Pictures\2022_Bike_Usage.png" width=47 height=80></td>
-    <td><img scr="C:\Users\PC\Pictures\2023_Bike_Usage.png" width=47 height=80></td>
-  </tr>
-</table>
+![Github_Bikeshare 2](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/e55128e8-3f75-440f-b4e9-9c7f2a5e2648)
 
+![Github_Bikeshare 3](https://github.com/johyexson/Cyclistic_BikeShare/assets/144231843/8e4339f9-0676-4fe6-af1b-6766b7637d10)
