@@ -4,14 +4,22 @@
 - [Introduction](*introduction)
 - [Business Task](*business-task)
 - [Data Source](*data-source)
-- [Tools Used](*tools-used)
+- [Tools](*tools)
+- [Methods](*methods)
+- [Graphs](*graphs)
+- [Summary of Findings](*summary-of-findings)
+- [Key Observation](*key-observation)
+- [Recommendations](*recommendations)
+- [Limitations](*limitations)
+- [Code](*code)
+- [Dashboard](*dashboard)
 # Introduction
 Cyclistic is a fictional bike share company that launched a successful bike-share offering in 2016. The program however, has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. Cyclistic customers comprise of two rider types namely; Casual Riders which are customers who purchase single-ride or full-day passes and Cyclistic Members which are customers who purchase annual membership.
 # Business Task
 Converting Casual Riders to Cyclistic Members
 # Data Source
 The data used was made available by a real bike share Company named Divvy.It includes tripdata originally stored in csv files and organized by different months of each year. [Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
-# Tools Used
+# Tools
 - Excel
 - R
 - Tableau
@@ -51,7 +59,7 @@ Casual riders that frequently use classic bikes have higher chances of being con
 # Limitations
 - Incomplete data with a lot of missing values limited the quality of the analysis
 - Inability to access pass purchases made by riders due to privacy issues
-# Explore the Codes
-The codes I wrote for the analysis can be viewed [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
-# Explore the Dashboard
-The dashboard I created in Tableau can also be viewed [here.](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
+# Code
+You can explore the codes I wrote for the analysis [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
+# Dashboard
+The dashboard I created in Tableau can be viewed [here.](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
