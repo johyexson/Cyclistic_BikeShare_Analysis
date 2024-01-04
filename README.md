@@ -1,18 +1,18 @@
 # Cyclistic_BikeShare
 ![](Intro_image.jpg)
 # Table of Contents
-- [Introduction](*introduction)
-- [Business Task](*business-task)
-- [Data Source](*data-source)
-- [Tools](*tools)
-- [Methods](*methods)
-- [Graphs](*graphs)
-- [Summary of Findings](*summary-of-findings)
-- [Key Observation](*key-observation)
-- [Recommendations](*recommendations)
-- [Limitations](*limitations)
-- [Code](*code)
-- [Dashboard](*dashboard)
+- [Introduction](#introduction)
+- [Business Task](#business-task)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Methods](#methods)
+- [Graphs](#graphs)
+- [Summary of Findings](#summary-of-findings)
+- [Key Observation](#key-observation)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Code](#code)
+- [Dashboard](#dashboard)
 # Introduction
 Cyclistic is a fictional bike share company that launched a successful bike-share offering in 2016. The program however, has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. Cyclistic customers comprise of two rider types namely; Casual Riders which are customers who purchase single-ride or full-day passes and Cyclistic Members which are customers who purchase annual membership.
 # Business Task
