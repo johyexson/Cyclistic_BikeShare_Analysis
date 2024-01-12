@@ -60,6 +60,6 @@ Casual riders that frequently use classic bikes have higher chances of being con
 - Incomplete data with a lot of missing values limited the quality of the analysis
 - Inability to access pass purchases made by riders due to privacy issues
 # Code
-You can explore the codes I wrote for the analysis [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
+You explore the codes I wrote for the analysis [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 # Dashboard
 The dashboard I created in Tableau can be viewed [here.](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
