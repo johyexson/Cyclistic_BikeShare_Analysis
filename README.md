@@ -22,7 +22,7 @@ The data used was made available by a real bike share Company named Divvy.It inc
 # Tools
 - Excel
 - R
-- Tableau
+-[Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
 # Methods
 I decided to analyse the tripdata for year 2022 from January to December and year 2023 from January to July being the most recently updated tripdata, the analysis process are as follows:
 - Loaded the files into Excel for cleaning
