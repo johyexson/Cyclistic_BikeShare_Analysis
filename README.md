@@ -40,12 +40,13 @@ I decided to analyse the tripdata for year 2022 from January to December and yea
 The results at a glance.
 
 Questions:
-1) Which bikes were most frequently used by both casual riders and members?
+1) Which bike was most frequently used by both casual riders and members?
 ![](Graph_1.png)
 
 2) Which rider had the highest trip counts and how has it varied over the years?
 ![](Graph_2.png)
 
+3) What day recorded the most frequent rides and how has this changed over the years?
 ![](Graph_3.png)
 
 # Summary of Findings
