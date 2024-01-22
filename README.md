@@ -38,6 +38,7 @@ I decided to analyse the tripdata for year 2022 from January to December and yea
 - Exported file in order to create better visualization in Tableau
 # Graphs
 The results at a glance:
+
 Questions:
 1) Which bikes were most frequently used by both casual riders and members?
 ![](Graph_1.png)
