@@ -33,9 +33,8 @@ I decided to analyse the tripdata for year 2022 from January to December and yea
 - Removed missing values and duplicate rows
 - Filtered out dirty data irrelevant to the analysis
 - Converted data types
-- Carried out statistical calculations
-- Plotted graphs for visualization
-- Exported file in order to create better visualization in Tableau
+- Carried out statistical calculations to answer the business task
+- Exported file in order to create a dashboard for data visualization in Tableau
 # Graphs
 The results at a glance.
 
