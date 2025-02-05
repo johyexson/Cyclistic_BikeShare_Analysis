@@ -2,10 +2,11 @@
 ![](Intro_image.jpg)
 # Table of Contents
 - [Introduction](#introduction)
-- [Business Task](#business-task)
 - [Data Source](#data-source)
+- [Hypothesis](#hypothesis)
+- [Business Task](#business-task)
 - [Tools](#tools)
-- [Methods](#methods)
+- [Approach and Methods](#approach-and-methods)
 - [Graphs](#graphs)
 - [Summary of Findings](#summary-of-findings)
 - [Key Observation](#key-observation)
@@ -15,15 +16,17 @@
 - [Dashboard](#dashboard)
 # Introduction
 Cyclistic is a fictional bike share company that launched a successful bike-share offering in 2016. The program however, has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. Cyclistic customers comprise of two rider types namely; Casual Riders which are customers who purchase single-ride or full-day passes and Cyclistic Members which are customers who purchase annual membership.
-# Business Task
-Converting Casual Riders to Cyclistic Members
 # Data Source
 The data used was made available by a real bike share Company named Divvy.It includes tripdata originally stored in csv files and organized by different months of each year. [Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
+# Hypothesis 
+My assumptions based on the business problem are as follows:
+# Business Task
+Converting Casual Riders to Cyclistic Members
 # Tools
 - Excel
-- R
+- [R](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 - [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
-# Methods
+# Approach and Methods
 I decided to analyse the tripdata for year 2022 from January to December and year 2023 from January to July being the most recently updated tripdata, the analysis process are as follows:
 - Loaded the files into Excel for cleaning
 - Checked for inconsistent formats and corrected errors
