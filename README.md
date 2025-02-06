@@ -1,4 +1,4 @@
-# Cyclistic_BikeShare
+# Cyclistic_BikeShare_Analysis 
 ![](Intro_image.jpg)
 # Table of Contents
 - [Case Study](#case-study)
@@ -19,6 +19,7 @@ Cyclistic is a fictional bike share company that launched a successful bike-shar
 # Data Source
 The data used was made available by a real bike share Company named Divvy.It includes tripdata originally stored in csv files and organized by different months of each year. [Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
 # Hypothesis 
+I hypothesized that casual riders are more likely to become annual members if incentives that make them feel the conversion is worth it are offered.
 My assumptions based on the business problem are as follows:
 # Business Task
 Converting Casual Riders to Cyclistic Members
