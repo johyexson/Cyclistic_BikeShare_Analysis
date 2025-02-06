@@ -7,12 +7,12 @@
 - [Business Task](#business-task)
 - [Tools for Analysis](#tools-for-analysis)
 - [Approach and Analysis Methods](#approach-and-analysis-methods)
+- [Code](#code)
 - [Graphs](#graphs)
 - [Summary of Findings](#summary-of-findings)
 - [Key Observation](#key-observation)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- [Code](#code)
 - [Dashboard](#dashboard)
 # Case Study
 Cyclistic is a fictional bike share company that launched a successful bike-share offering in 2016. The program however, has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. Cyclistic customers comprise of two rider types namely; Casual Riders which are customers who purchase single-ride or full-day passes and Cyclistic Members which are customers who purchase annual membership.
@@ -38,6 +38,8 @@ I decided to analyse the tripdata for year 2022 from January to December and yea
 - Converted data types
 - Carried out statistical calculations to answer the business task
 - Exported file in order to create a dashboard for data visualization in Tableau
+# Code
+You can explore the codes I wrote for the analysis [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 # Graphs
 The results at a glance.
 
@@ -66,7 +68,5 @@ Casual riders that frequently use classic bikes have higher chances of being con
 # Limitations
 - Incomplete data with a lot of missing values limited the quality of the analysis
 - Inability to access pass purchases made by riders due to privacy issues
-# Code
-You can explore the codes I wrote for the analysis [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 # Dashboard
 The dashboard I created in Tableau can be viewed [here.](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
