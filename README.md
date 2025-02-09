@@ -22,7 +22,7 @@ This is my assumption based on the business task:
 - Excel
 - [R](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 - [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
-# Approach and Analysis Methods
+# Method of Analysis
 I decided to analyse the tripdata for year 2022 from January to December and year 2023 from January to July being the most recently updated tripdata. The analysis process are as follows:
 - **Data Cleaning and Transformation**:
 Imported the libraries and packages such as(Tidyverse, Lubridate, Dlookr, Readr, etc.) in RStudio for cleaning and transforming the data. Removed missing values and duplicate rows, converted data types and removed irrelevant columns
