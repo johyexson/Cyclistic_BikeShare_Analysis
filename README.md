@@ -23,17 +23,13 @@ This is my assumption based on the business task:
 - [R](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 - [Tableau](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
 # Approach and Analysis Methods
-I decided to analyse the tripdata for year 2022 from January to December and year 2023 from January to July being the most recently updated tripdata, the analysis process are as follows:
-- Loaded the files into Excel for cleaning
-- Checked for inconsistent formats and corrected errors
-- Created two extra columns for ride length and day of week
-- Calculated the percentage and count of missing values
-- Imported the file into RStudio for further cleaning and analysis
-- Removed missing values and duplicate rows
-- Filtered out dirty data irrelevant to the analysis
-- Converted data types
-- Carried out statistical calculations to answer the business task
-- Exported file in order to create a dashboard for data visualization in Tableau
+I decided to analyse the tripdata for year 2022 from January to December and year 2023 from January to July being the most recently updated tripdata. The analysis process are as follows:
+- **Data Cleaning and Transformation**:
+Imported the libraries and packages such as(Tidyverse, Lubridate, Dlookr, Readr, etc.) in RStudio for cleaning and transforming the data. Removed missing values and duplicate rows, converted data types and removed irrelevant columns
+- **Exploratory Data Analysis**:
+Carried out statistical calculations to answer the business task. Extracted insights from the data using aggregating functions and modules in R.
+- **Data Visualization**:
+Exported the file in order to create a dashboard to visualize the findings of the analysis in Tableau.
 # Code
 You can explore the codes I wrote for the analysis [here](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
 # Summary of Findings
@@ -52,7 +48,8 @@ A comparison of the tripdata from the previous year and the present year shows t
 Casual riders that frequently use classic bikes have higher chances of being converted to annual members, therefore the advertising campaigns should be directed towards them
 # Recommendations
 1. Advertising campaigns should be strategized and geared towards improving the quality of classic bikes in order to attract the interest of more casual riders.
-2. Incentives such as discounts should be included for annual members, especially those using classic bikes.
-3. Free test rides with the remodified classic bikes should be introduced to the casual riders to arouse their interest.
+2. Free test rides with the remodified classic bikes should be introduced to the casual riders to arouse their interest.
+3. Incentives such as discounts should be included for casual riders, especially those using classic bikes.
+
 # Dashboard
 The dashboard I created in Tableau can be viewed [here.](https://public.tableau.com/app/profile/joy.johnson5229/viz/Cyclistic_BikeShare_16944692451940/CyclisticBikeShareDashboard)
