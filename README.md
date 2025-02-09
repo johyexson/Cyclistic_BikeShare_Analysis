@@ -17,7 +17,7 @@ A fictional bike share company named Cyclistic, which has a fleet of 5,824 bicyc
 The data used was made available by a real bike share Company named Divvy.It includes tripdata originally stored in csv files and organized by different months of each year. [Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
 # Hypothesis 
 This is my assumption based on the business task:
-- Casual riders are more likely to become annual members if compelling incentives are offered.
+- Casual riders are more likely to become annual members if compelling incentives are offered. This is because offering bike commuting incentives have a better track record of getting people to make the switch.
 # Tools
 - Excel
 - [R](https://github.com/johyexson/Cyclistic_BikeShare/blob/main/My_Capstone_Project.R)
